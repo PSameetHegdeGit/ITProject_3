@@ -1,4 +1,4 @@
-Sameet Hedge(srh155)/ Adedamilotun Kanji-Ojelade(akk91)
+Sameet Hegde(srh155)/ Adedamilotun Kanji-Ojelade(akk91)
 
 
 We set up the project by connecting the VirtualBox to mininet and sshing from our respective terminals. We attempted to ping each end point to one another in order to test for reachability. We mainly used the ping and traceroute commands to confirm that the project was functioning properly and set up the default routes.  We came across a few errors here and there but they were mostly problems based on our own network connection. We then transferred the list of commands from our local computers to the mininet virtualbox and after numerous tests we were able to get them to run successfully.
